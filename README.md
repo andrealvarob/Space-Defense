@@ -1,7 +1,7 @@
 Space-Defense
 =============
 
-Jogo desenvolvido por mim e meus colegas no âmbito da disciplina Laboratório de Programação I
+Jogo desenvolvido por mim e meus colegas no âmbito da disciplina de Laboratório de Programação I
 
 > Comandos: 
 
