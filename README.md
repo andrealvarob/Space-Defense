@@ -13,10 +13,10 @@ a , movimenta a nave para esquerda;
 
 d , movimenta a nave para direta;
 
-cursor do mouse , direção do tiro;
+cursor do mouse, direção do tiro;
 
-click do mouse , atira;
+click do mouse, atira;
 
-esc , pausa;
+esc, pausa;
 
-space , volta para o menu principal quando o jogo acabar(GameOver);
+space, volta para o menu principal quando o jogo acabar(GameOver);
