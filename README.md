@@ -5,18 +5,18 @@ Jogo desenvolvido por mim e meus colegas no âmbito da disciplina Laboratório d
 
 > Comandos: 
 
-w , movimenta a nave para cima;
+`w` , movimenta a nave para cima;
 
-s , movimenta a nave para baixo;
+`s` , movimenta a nave para baixo;
 
-a , movimenta a nave para esquerda;
+`a` , movimenta a nave para esquerda;
 
-d , movimenta a nave para direta;
+`d` , movimenta a nave para direta;
 
-cursor do mouse, direção do tiro;
+`cursor do mouse` , direção do tiro;
 
-click do mouse, atira;
+`click do mouse` , atira;
 
-esc, pausa;
+`esc` , pausa;
 
-space, volta para o menu principal quando o jogo acabar(GameOver);
+`space` , volta para o menu principal quando o jogo acabar(GameOver);
