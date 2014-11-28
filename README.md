@@ -19,4 +19,4 @@ Jogo desenvolvido por mim e meus colegas no âmbito da disciplina Laboratório d
 
 `esc` , pausa;
 
-`space` , volta para o menu principal quando o jogo acabar(GameOver);
+`space` , volta para o menu principal quando o jogo acabar(Game Over);
