@@ -20,3 +20,5 @@ Jogo desenvolvido por mim e meus colegas no âmbito da disciplina de Laboratóri
 `esc` , pausa;
 
 `space` , volta para o menu principal quando o jogo acabar(Game Over);
+
+obs: Para executar o game precisa ter o Visual c++ instalado na maquina
